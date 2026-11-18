@@ -34,7 +34,7 @@ Card này đi kèm mỗi báo cáo và được dùng lại ở Day 10.
 
 ## Phần v2 (Advanced / Expert — M5–M7)
 
-- **Run ID / eval set SHA v2:** `E-swarm-20261118-5c2f` / SHA: `5c2f166b0b6b`
+- **Run ID / eval set SHA v2:** `E-swarm-20261118-0385` / SHA: `0385e41a65b3`
 - **Eval set v2:** 28 item (14 v1 + 14 adversarial pack) × 5 seed = 140 trials.
 - **A/A test & Ngưỡng chọn:**
   - Chạy A/A trên 2 bộ seed độc lập `[11, 22, 33, 44, 55]` và `[66, 77, 88, 99, 110]` cho kết quả $\Delta = 0.0000$ trên mọi metric (do MockLLM deterministic).
